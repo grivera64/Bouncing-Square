@@ -1,6 +1,6 @@
 # Bouncing-Square
 
-![Example Run](https://github.com/grivera64/Gitmoji-Clipboard/blob/main/img/Bouncing-Square-Demo.jpg?raw=true)
+![Example Run](https://github.com/grivera64/Bouncing-Square/blob/main/img/Boucing-Square-Demo.jpg?raw=true)
 
 Bouncing Square is a Raylib application built with C++ that displays a screensaver of bouncing squares on the screen.
 
